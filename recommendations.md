@@ -1,0 +1,4 @@
+- Implement least privilege access control
+- Deploy encryption for sensitive data
+- Introduce IDS/IPS for monitoring
+- Establish backup and disaster recovery plan
