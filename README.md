@@ -24,3 +24,11 @@ To identify security risks, evaluate existing controls, and assess compliance wi
 
 ## Outcome
 This audit identifies critical security gaps and provides recommendations to improve the organization’s security posture.
+
+## References
+
+- [Scope, Goals, and Risk Assessment Report](docs/botium-risk-assessment-report.pdf)
+
+- [Control Categories Documentation](docs/control-categories.pdf)
+
+- [Controls and Compliance Checklist](docs/controls-and-compliance-checklist.pdf)
